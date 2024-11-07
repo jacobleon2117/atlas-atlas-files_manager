@@ -24,6 +24,7 @@
         "path": "^0.12.7",
         "redis": "^2.8.0",
         "sha1": "^1.1.1",
+        "tailwind": "^4.0.0",
         "uuid": "^8.3.2"
     },
     "devDependencies": {
